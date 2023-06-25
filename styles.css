@@ -1,2 +1,13 @@
-
 /* Your CSS Code here. */
+.box{
+	width:300px;
+	height:auto;
+	background-color:lightblue;
+	padding:50px;
+	border:15px solid blue;
+	margin:20px;
+}
+
+/* p{
+	border:1px solid
+} */
